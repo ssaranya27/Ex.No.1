@@ -11,4 +11,3 @@ To create a Repository
 # Result:
 
 Thus a Repository has been created successfully.
-a
